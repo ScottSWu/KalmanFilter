@@ -1,0 +1,23 @@
+{
+  "name": "kalmanfilter",
+  "version": "1.0.0",
+  "description": "Kalman Filter implementation using Sylvester",
+  "main": "kf.js",
+  "dependencies": {
+    "sylvester": "0.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottSWu/KalmanFilter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottSWu/KalmanFilter/issues"
+  },
+  "homepage": "https://github.com/ScottSWu/KalmanFilter#readme"
+}
